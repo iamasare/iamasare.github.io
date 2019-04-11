@@ -90,7 +90,7 @@
                         </div>
                         <div class="col-md-7">
                             <div class="row person_details">
-                                <h3>Hi I'm <span>Ramirez Minita</span></h3>
+                                <h3>Hi I'm <span>Bismark K. Asare</span></h3>
                                 <h4>Web Designer and Web Developer</h4>
                                 <p>My name is Bernard Shelly. I am 32 years old. Lorem ipsum dolor sit amet, consectetur ascing elits, sed do eiusmod tempor incidunt ut labore et dolore mafgna aliqua. Ut enim ad mini vniam quis nerci, tation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis autes irure dolor in reprehenderit in etrs voluptate velit esse cillum dolore eu fugiat nulla pariatur. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.</p>
                                 <div class="person_information">
