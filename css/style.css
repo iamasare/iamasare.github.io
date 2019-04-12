@@ -207,7 +207,7 @@ button:focus {
 }
 
 .text-custom {
-    color: #22adff !important;
+    color: #D4AF37 !important;
 }
 
 .text-danger {
@@ -641,7 +641,7 @@ ul {
     border-radius: 50%;
     content: "";
     height: 20px;
-    background-color: #F26522;
+    background-color: #D4AF37;
     position: absolute;
     left: -65px !important;
     width: 20px;
