@@ -955,7 +955,7 @@ ul {
     .custom-nav {
         margin-top: 0px;
         padding: 10px 0px !important;
-        background-color: #fff !important;
+        background-color: transparent !important;
     }
     .custom-nav .navbar-nav li a {
         margin: 0 0px;
