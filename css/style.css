@@ -165,8 +165,7 @@ button:focus {
     bottom: 15px;
     height: 35px;
     width: 35px;
-    background-color: #F26522;
-    display: none;
+    background-color: #2141c1;
     z-index: 10000;
     border-radius: 3px;
     right: 20px;
@@ -316,8 +315,8 @@ button:focus {
 }
 
 .btn-custom {
-    background-color: #F26522;
-    border: 2px solid #F26522;
+    background-color: #2141c1;
+    border: 2px solid #2141c1;
     color: #fff;
     transition: all 0.5s;
     font-size: 15px;
@@ -333,8 +332,8 @@ button:focus {
 .btn-custom:focus,
 .btn-custom:hover,
 .open>.dropdown-toggle.btn-custom {
-    background-color: #F26522;
-    border-color: #F26522;
+    background-color: #2141c1;
+    border-color: #2141c1;
     color: #f3f3f3;
 }
 
@@ -384,7 +383,7 @@ button:focus {
 .custom-nav.stickyadd .navbar-nav li.active a,
 .custom-nav.stickyadd .navbar-nav li a:hover,
 .custom-nav.stickyadd .navbar-nav li a:active {
-    color: #F26522 !important;
+    color: #2141c1 !important;
 }
 
 .custom-nav.stickyadd .navbar-nav li a {
@@ -452,9 +451,16 @@ button:focus {
     position: relative;
     top: 14px;
 }
+.mdi {
+    color: #fff;
+    font-size: 25px;
+}
+ul {
+    margin-bottom: 0rem !important;
+}
 
 .header_title {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 400;
     line-height: 1.2;
     text-transform: capitalize;
