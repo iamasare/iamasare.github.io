@@ -165,7 +165,7 @@ button:focus {
     bottom: 15px;
     height: 35px;
     width: 35px;
-    background-color: #2141c1;
+    background-color: #D4AF37;
     z-index: 10000;
     border-radius: 3px;
     right: 20px;
@@ -315,8 +315,8 @@ button:focus {
 }
 
 .btn-custom {
-    background-color: #2141c1;
-    border: 2px solid #2141c1;
+    background-color: #D4AF37;
+    border: 2px solid #D4AF37;
     color: #fff;
     transition: all 0.5s;
     font-size: 15px;
@@ -332,8 +332,8 @@ button:focus {
 .btn-custom:focus,
 .btn-custom:hover,
 .open>.dropdown-toggle.btn-custom {
-    background-color: #2141c1;
-    border-color: #2141c1;
+    background-color: #D4AF37;
+    border-color: #D4AF37;
     color: #f3f3f3;
 }
 
@@ -383,7 +383,7 @@ button:focus {
 .custom-nav.stickyadd .navbar-nav li.active a,
 .custom-nav.stickyadd .navbar-nav li a:hover,
 .custom-nav.stickyadd .navbar-nav li a:active {
-    color: #2141c1 !important;
+    color: #D4AF37 !important;
 }
 
 .custom-nav.stickyadd .navbar-nav li a {
