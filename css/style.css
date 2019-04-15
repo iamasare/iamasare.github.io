@@ -981,7 +981,7 @@ ul {
         color: #000;
     }
     .header_title {
-        font-size: 40px;
+        font-size: 22px;
         line-height: 1.2;
     }
     @media (max-width: 768px)
