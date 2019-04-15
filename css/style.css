@@ -960,7 +960,7 @@ ul {
     .custom-nav .navbar-nav li a {
         margin: 0 0px;
         padding: 6px 0;
-        color : black
+        color : #fff;
     }
     .custom-nav>.container {
         width: 90%;
