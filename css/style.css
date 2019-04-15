@@ -387,7 +387,7 @@ button:focus {
 }
 
 .custom-nav.stickyadd .navbar-nav li a {
-    color: #fff;
+    color: #fff !important;
 }
 
 .navbar-toggle {
