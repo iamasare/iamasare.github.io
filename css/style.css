@@ -983,10 +983,7 @@ ul {
         font-size: 22px;
         line-height: 1.2;
     }
-    @media (max-width: 768px)
-    .header_title {
-    font-size: 22px;
-}
+    
     .header_subtitle {
         font-size: 15px;
         line-height: 1.8;
@@ -996,6 +993,7 @@ ul {
     }
     .home-bg,.bg-custom.creative,.h-100vh.jarallax,.h-100vh.bg-dark {
         padding: 110px 0 170px 0;
+        background-position: center;
     }
     .custom-nav .navbar-brand.logo img {
         height: 26px;
