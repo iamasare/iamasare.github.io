@@ -208,6 +208,9 @@ button:focus {
 .text-muted {
     color: #fff;
 }
+p.text-unmuted {
+    color: #fff;
+}
 
 .text-custom {
     color: #D4AF37 !important;
