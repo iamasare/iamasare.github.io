@@ -47,6 +47,9 @@ body {
 .font-weight-bold{
     color: #D4AF37;
 }
+.font-weight{
+    color: #fff;
+}
 
 hr{
     margin-top: 1rem;
