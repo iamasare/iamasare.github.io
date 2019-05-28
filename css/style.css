@@ -315,9 +315,9 @@ p.text-unmuted {
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
 .open>.dropdown-toggle.btn-outline-custom {
-    background-color: #fff !important;
-    border-color: #fff !important;
-    color: #000 !important;
+    background-color: #d4af37 !important;
+    border: none !important;
+    color: #fff !important;
 }
 
 .btn-custom {
