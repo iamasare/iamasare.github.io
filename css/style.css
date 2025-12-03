@@ -691,6 +691,7 @@ ul {
 =============================*/
 
 .work_menu li a {
+    color: #fff !important;
     letter-spacing: 0.03em;
     cursor: pointer;
     margin-bottom: 5px;
